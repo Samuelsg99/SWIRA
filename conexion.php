@@ -1,8 +1,8 @@
 <?php
 
     $host = "localhost";
-    $user = "root";
-    $clave = "";
+    $user = "revergy";
+    $clave = "revergy2022";
     $bd = "revergy";
 
     $conexion = mysqli_connect($host,$user,$clave,$bd);
